@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo01.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">AUTO-MAC-LAYOUT</h3>
 
@@ -50,7 +50,9 @@
 ## About The Project
 
 Auto Mac Layout is a lightweight macOS tray app that automatically saves and restores Finder desktop icon positions based on your current display setup.
-
+<div align="center">
+<img src="assets/snapshot.png" alt="Logo" width="200" >
+</div>
 When monitors are plugged in, removed, mirrored, or rearranged, Finder can scramble icon positions. This tool fingerprints the active display topology and applies the matching saved layout.
 
 ### Features
